@@ -38,7 +38,7 @@ python ex2_regressao.py
 
 ---
 
-## 🧠 Exercício 1 – Classificação Multiclasse (Wine Dataset)
+##  Exercício 1 – Classificação Multiclasse (Wine Dataset)
 
 - **Configuração da Rede Neural:**
   - 2 camadas ocultas com 32 neurônios cada, ativação **ReLU**
@@ -57,7 +57,7 @@ python ex2_regressao.py
 
 ---
 
-## 🏠 Exercício 2 – Regressão (California Housing Dataset)
+##  Exercício 2 – Regressão (California Housing Dataset)
 
 - **Configuração da Rede Neural:**
   - 3 camadas ocultas (64, 32, 16 neurônios) com ativação **ReLU**
@@ -86,13 +86,13 @@ python ex2_regressao.py
 
 ---
 
-## ✅ Conclusão Final
+##  Conclusão Final
 - **Classificação:** Tanto modelos clássicos quanto redes neurais têm desempenho perfeito neste dataset.
 - **Regressão:** Modelos lineares ainda superam redes neurais neste conjunto, mas o uso de redes permite explorar relações não-lineares se houver maior complexidade ou mais dados.
 
 ---
 
-## 📦 Dependências
+##  Dependências
 
 Veja o arquivo [`requirements.txt`](./requirements.txt):
 
@@ -106,7 +106,3 @@ matplotlib>=3.8.0
 
 ---
 
-## 👩‍💻 Autor
-- **Nome:** *Seu Nome Aqui*  
-- **RM:** *Seu RM Aqui*  
-- **Curso:** *2TDS – FIAP*  
