@@ -21,7 +21,7 @@ CP2-IOT/
 
 1. **Clonar o repositório**
 ```bash
-git clone <link-do-repositorio>
+git clone https://github.com/raphatatto/Redes-Neurais-com-Keras.git
 cd cp2-iot
 ```
 
