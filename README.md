@@ -1,7 +1,7 @@
 #  Checkpoint 2 – Redes Neurais com Keras
   **Integrantes**
 - Raphaela Oliveira Tatto - 554983
-- Otavio Miklos - 5544513
+- Otavio Miklos - 554513
 - Luciayla Kawakami - 557987
 - Tiago Ribeiro Capela - 558021
 ##  Estrutura do Repositório
